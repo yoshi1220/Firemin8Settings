@@ -1,0 +1,1 @@
+Teams.exe,WavesSvc64.exe,OUTLOOK.EXE,OneDrive.exe,ONENOTE.EXE,msedgewebview2.exe,plugin-container.exe,msedge.exe
